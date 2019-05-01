@@ -741,3 +741,6 @@
 .footer-items li a:hover{
 	color: #33af7c;
 }
+.article-block a {
+    color: #212529;
+}
