@@ -744,3 +744,7 @@
 .article-block a {
     color: #212529;
 }
+.carousel-caption {
+	bottom: 85px;
+	right: 25%;
+}
